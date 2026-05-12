@@ -7,3 +7,6 @@ ios/
 .idea/
 dist/
 build/
+/app.js
+/index.html
+/styles.css
